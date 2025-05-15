@@ -1,0 +1,43 @@
+body{
+	background-image: url("images/bg.png");
+	background-repeat:no-repeat;
+	 background-size: cover;
+}
+
+.credit{
+	text-align:center;
+	font-family:FMAbabld;
+	font-size:30px;
+	color:black;
+	bold;
+	
+}
+
+.fill{
+	background-color:lightgreen;
+}
+
+.head{
+	font-size:50px;
+	color:Blue;
+	font-family:ChunkFive;
+	text-align:center;
+}
+
+.par{
+	text-align:justify;
+	font-family:ChunkFive;
+	font-size:25px;
+	color:black;
+}
+
+.list{
+	font-size:30px;
+}
+
+.min{
+	font-size:20px;
+	color:Blue;
+	font-family:Aerial;
+	text-align:center;
+}
